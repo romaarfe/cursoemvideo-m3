@@ -99,8 +99,8 @@
   * Quantidade de notas
   * A maior nota
   * A menor nota
-    * A média da turma
-    * A situação (opcional)
+  * A média da turma
+  * A situação (opcional)
 
 107) Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra ‘FIM’, o programa se encerrará. Importante: use cores.
    
