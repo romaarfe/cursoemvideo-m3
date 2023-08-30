@@ -17,7 +17,7 @@
 ##### 📖 Projeto para Módulo de C++ - IEFP
 
 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">
-<img align="right" src="https://i.ibb.co/DMwPWq3/curso.jpg"></a>
+<img align="right" height="20" src="https://i.ibb.co/DMwPWq3/curso.jpg"></a>
 
 # Curso em Vídeo 
 - ### Prof. Gustavo Guanabara
