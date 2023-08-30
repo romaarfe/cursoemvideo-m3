@@ -1,3 +1,21 @@
+<h3 align="center"> 
+  🚧 EXERCÍCIOS PYTHON | MUNDO 3 🚧
+</h3>
+
+---
+#### ⚙️ ETAPAS / FUNCIONALIDADES:
+
+- [x] Implementação do código associado
+- [x] Testes da funcionalidades
+
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- C++
+
+---
+##### 📖 Projeto para Módulo de C++ - IEFP
+
 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">
 <img align="right" height="120em" src="https://i.ibb.co/DMwPWq3/curso.jpg"></a>
 
