@@ -14,10 +14,10 @@
 - C++
 
 ---
-##### Curso em Vídeo <img align="left" height="20" src="https://i.ibb.co/DMwPWq3/curso.jpg">
+##### 💻 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">Curso em Vídeo</a>.
 ##### 📖 Projeto para Módulo de C++ - IEFP
 
-<a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">
+
 
 
 # Curso em Vídeo 
