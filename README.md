@@ -3,27 +3,7 @@
 </h3>
 
 ---
-#### ⚙️ ETAPAS / FUNCIONALIDADES:
-
-- [x] Implementação do código associado
-- [x] Testes da funcionalidades
-
----
-#### 🔧 FERRAMENTAS / TECNOLOGIAS:
-
-- C++
-
----
-##### 💻 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3" target="_blank">Curso em Vídeo</a>.
-##### 📖 Projeto para Módulo de C++ - IEFP
-
-
-
-
-# Curso em Vídeo 
-- ### Prof. Gustavo Guanabara
-## Python 3 - Mundo 3
-- ### Exercícios 72 - 115
+#### ⚙️ EXERCÍCIOS / FUNCIONALIDADES:
 
 72) Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 73) Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
@@ -98,3 +78,13 @@ c) uma contagem personalizada
 113) Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
 114) Crie um código em Python que teste se o site pudim está acessível pelo computador usado.
 115) Vamos criar um menu em Python, usando modularização. Vamos ver como fazer acesso a arquivos usando o Python. Vamos finalizar o projeto de acesso a arquivos em Python.
+
+---
+#### 🔧 FERRAMENTAS / TECNOLOGIAS:
+
+- Python
+
+---
+##### 💻 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">Curso em Vídeo</a>
+##### 🧑‍🏫 Prof. Gustavo Guanabara
+##### 📖 Python 3 - Mundo 3
