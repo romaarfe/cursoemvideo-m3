@@ -14,7 +14,7 @@
 - C++
 
 ---
-##### <img align="left" height="15" src="https://i.ibb.co/DMwPWq3/curso.jpg"> Curso em Vídeo
+##### Curso em Vídeo <img align="left" height="20" src="https://i.ibb.co/DMwPWq3/curso.jpg">
 ##### 📖 Projeto para Módulo de C++ - IEFP
 
 <a href="https://www.cursoemvideo.com/curso/python-3-mundo-3">
