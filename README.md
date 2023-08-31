@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  🚧 EXERCÍCIOS PYTHON | MUNDO 3 🚧
+  🚧 EXERCÍCIOS PYTHON | 72 - 115 | MUNDO 3 🚧
 </h3>
 
 ---
